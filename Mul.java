@@ -4,5 +4,7 @@ public class Mul {
         int b=10;
         int c = a * b;
         System.out.println("The multiplication of a and b is " + c);
+        System.out.println(args[1]);
     }
+    
 }
